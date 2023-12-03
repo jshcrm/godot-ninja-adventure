@@ -1,6 +1,6 @@
 [gd_scene load_steps=9 format=3 uid="uid://br1jdf2dudx4p"]
 
-[ext_resource type="Texture2D" uid="uid://nt1gd2nm202u" path="res://NinjaAdventure/Actor/Characters/GreenNinja/SpriteSheet.png" id="1_jopbu"]
+[ext_resource type="Texture2D" uid="uid://nt1gd2nm202u" path="res://assets/Actor/Characters/GreenNinja/SpriteSheet.png" id="1_jopbu"]
 
 [sub_resource type="Animation" id="Animation_0vpht"]
 resource_name = "walkDown"
